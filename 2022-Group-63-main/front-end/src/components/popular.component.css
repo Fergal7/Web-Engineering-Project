@@ -1,0 +1,20 @@
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+.ulPopular {
+    text-align: center;
+    list-style-position: inside;
+    display:inline-block;
+    border:1px solid #000;
+    padding:20px;
+}
+
+.liPopular {
+    text-align: center;
+    list-style-position: inside;
+    border:1px solid #000;
+    padding:20px;
+}
